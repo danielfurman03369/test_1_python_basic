@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0453e44-3969-49aa-a65a-825155f573d7" name="Changes" comment="third q q">
-      <change afterPath="$PROJECT_DIR$/q_4_.py" afterDir="false" />
+    <list default="true" id="f0453e44-3969-49aa-a65a-825155f573d7" name="Changes" comment="4 q q">
+      <change beforePath="$PROJECT_DIR$/q_1_.py" beforeDir="false" afterPath="$PROJECT_DIR$/q_1_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/q_3_.py" beforeDir="false" afterPath="$PROJECT_DIR$/q_3_.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.american_q.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.q_1_.executor": "Run",
     "Python.q_2_.executor": "Run",
     "Python.q_3_.executor": "Run",
     "Python.q_4_.executor": "Run",
@@ -111,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774802362198</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="4 q q">
+      <option name="closed" value="true" />
+      <created>1774803576689</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774803576689</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,6 +128,7 @@
     <MESSAGE value="second q" />
     <MESSAGE value="second q q" />
     <MESSAGE value="third q q" />
-    <option name="LAST_COMMIT_MESSAGE" value="third q q" />
+    <MESSAGE value="4 q q" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 q q" />
   </component>
 </project>
