@@ -11,5 +11,5 @@ def find_median(number: list) -> float:
         return float(number[len(number) // 2])
 
 
-
-print(find_median([3,1,4,1,5]))
+lst = [3,1,4,1,5]
+print(find_median(lst))
