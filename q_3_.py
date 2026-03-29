@@ -9,3 +9,4 @@ def snake_to_camel(text: str) -> str:
 
 a = 'python'
 print(snake_to_camel(a))
+
