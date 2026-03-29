@@ -7,6 +7,6 @@ def snake_to_camel(text: str) -> str:
     words[0] = words[0].lower()
     return''.join(words)
 
-a = 'python'
+a = 'python_wow'
 print(snake_to_camel(a))
 
